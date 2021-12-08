@@ -1,0 +1,14 @@
+body{
+    background-image:linear-gradient(skyblue,green);
+}
+h1,p,h4{
+    color:white;
+}
+.btn-primary{
+    width:80%;
+}
+#camera{
+    border:2px black solid;
+    width:350px;
+    height: 300px;
+}
